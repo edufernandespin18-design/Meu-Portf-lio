@@ -1,7 +1,5 @@
 # Portfólio de Desenvolvedor Front-end | Eduardo Fernandes
 
-![Preview do Portfólio](portfolio-preview.png)
-
 > "Construindo experiências web performáticas e visuais."
 
 ## 💻 Sobre o Projeto
